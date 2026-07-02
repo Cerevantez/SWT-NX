@@ -1,0 +1,8 @@
+print("welcome to my Calculator")
+num1 = float(input("enter Num1: "))
+num2 = float(input("enter Num2: "))
+print("The result is:")
+print(num1 + num2)
+print(num1 - num2)
+print(num1 * num2)
+print(num1 / num2)

@@ -1,0 +1,10 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "SWTAT4Spielwiese/04_PythonGrundlagen",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
+    "python.REPL.enableREPLSmartSend": false
+}
