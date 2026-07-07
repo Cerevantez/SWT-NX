@@ -36,8 +36,7 @@ The goal is to showcase my QA workflow:
 ## 🇩🇪 Deutsch
 
 Dieses Repository dokumentiert meine praktischen Erfahrungen mit uTest.  
-Der Fokus liegt auf manuellem Softwaretesten, strukturiertem Arbeiten sowie präziser Analyse und Dokumentation von Fehlern.  
-Das Projekt befindet sich **aktuell noch in Arbeit** und wird fortlaufend erweitert.
+Der Fokus liegt auf manuellem Softwaretesten
 
 ### 📂 Inhalte des Repositories
 - Manuelle Testfälle  
