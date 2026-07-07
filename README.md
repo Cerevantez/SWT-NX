@@ -32,12 +32,33 @@ The goal is to showcase my QA workflow:
 - structured test case development  
 - continuous improvement of my testing skills  
 
----
-
-# UTest-Repo  
-### Testfälle • Bug-Reports • Reproduktionsschritte • QA-Dokumentation
 
 ## 🇩🇪 Deutsch
 
 Dieses Repository dokumentiert meine praktischen Erfahrungen mit uTest.  
-Der Fokus liegt auf manuellem Softwaretesten, strukturiertem Arbeiten sowie
+Der Fokus liegt auf manuellem Softwaretesten, strukturiertem Arbeiten sowie präziser Analyse und Dokumentation von Fehlern.  
+Das Projekt befindet sich **aktuell noch in Arbeit** und wird fortlaufend erweitert.
+
+### 📂 Inhalte des Repositories
+- Manuelle Testfälle  
+- Bug-Reports  
+- Detaillierte Reproduktionsschritte  
+- Analyse von Fehlerverhalten  
+- Strukturierte Testdokumentation nach ISTQB-Grundlagen  
+- Laufende Erweiterung durch neue uTest-Aufgaben  
+
+### 🎓 Abschluss: uTest Test Academy
+Ich habe die **uTest Test Academy erfolgreich abgeschlossen** und dabei grundlegende sowie fortgeschrittene Fähigkeiten erworben:
+- manuelles Testing  
+- reproduzierbare Fehleranalyse  
+- professionelle Bug-Dokumentation  
+- strukturierte Testfallentwicklung  
+
+Dieser Abschluss bestätigt meine Fähigkeit, Tests sauber zu planen, präzise auszuführen und nachvollziehbar zu dokumentieren.
+
+### 🧪 Ziel des Repositories
+Ziel ist es, meine QA-Arbeitsweise transparent darzustellen:
+- systematische Fehleranalyse  
+- klare und nachvollziehbare Dokumentation  
+- strukturierte Testfallentwicklung  
+- kontinuierliche Verbesserung meiner Testing-Fähigkeiten  
