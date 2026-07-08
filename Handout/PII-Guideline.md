@@ -1,0 +1,22 @@
+## 🛡️ PII-Daten, die du immer blurren oder blockieren musst
+
+- Vollständiger Name  
+- Telefonnummer  
+- Adresse  
+- Fahrzeug‑Identifikationsnummer (VIN)  
+- Biometrische Daten (Fingerabdrücke usw.)  
+- Bankdaten (IBAN, Kontonummer, Kreditkartennummer)  
+- Führerschein‑Nummer  
+- Nationale Identifikationsnummer (z. B. SSN)  
+- Passnummer  
+- Fotos von Personen  
+- Rasse / ethnische Herkunft  
+- Politische Meinungen  
+- Religiöse oder philosophische Überzeugungen  
+- Genetische Daten (DNA)  
+- Login‑Daten (E‑Mail + Passwort)  
+- MAC‑Adresse  
+- IP‑Adresse  
+- Geräte‑IDs  
+- Cookies  
+- Tastatur‑Eingaben, wenn du PII tippst
